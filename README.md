@@ -1,1 +1,1 @@
-# chaining-selectors
+The purpose of this project is to understand how to chain different selectors instead of just adding single attributes.
